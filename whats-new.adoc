@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, e-series' 
+summary: Découvrez les nouveautés de la gestion des systèmes E-Series dans BlueXP. 
+---
+= Nouveautés de la gestion de la gamme E-Series
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Découvrez les nouveautés de la gestion des systèmes E-Series dans BlueXP (anciennement Cloud Manager).
+
+
+
+== 18 septembre 2022
+
+
+
+=== Prise en charge des baies E-Series
+
+Vous pouvez désormais découvrir vos systèmes de stockage E-Series directement depuis BlueXP. La découverte des systèmes E-Series vous offre une vue complète des données dans l'ensemble de votre multicloud hybride.

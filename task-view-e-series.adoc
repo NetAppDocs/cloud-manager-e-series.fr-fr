@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: Une fois que vous avez découvert vos systèmes E-Series, vous pouvez consulter des informations sur la distribution de la capacité, les volumes et les hôtes. 
+---
+= Affichez vos systèmes E-Series
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+Une fois que vous avez découvert vos systèmes E-Series, vous pouvez consulter des informations sur la distribution de la capacité, les volumes et les hôtes.
+
+.Étapes
+. Dans la zone de travail, double-cliquez sur le nom de l'environnement de travail E-Series que vous souhaitez afficher.
+. Sélectionnez l'un des onglets pour afficher des informations supplémentaires sur votre système E-Series :
++
+** *Présentation* : une vue détaillée de la distribution de la capacité du système (allouée, libre et non affecté), du nombre de volumes, d'hôtes, etc.
++
+image:screenshot-overview.png["Copie d'écran de l'onglet Overview dans un environnement de travail E-Series."]
+
+** *Volumes* : détails sur les volumes du système, y compris l'affectation, le niveau RAID, la capacité allouée, etc.
++
+image:screenshot-volumes.png["Copie d'écran de l'onglet volumes dans un environnement de travail E-Series."]
+
+** *Hosts* : détails sur les hôtes qui envoient des E/S à un volume du système de stockage.
++
+image:screenshot-hosts.png["Copie d'écran de l'onglet hôtes dans un environnement de travail E-Series."]
+
+
+
+
